@@ -1,0 +1,10 @@
+/* Write your code here: */
+
+
+li.done {
+    color : green;
+}
+
+div p.done {
+    color : red;
+}

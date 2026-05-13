@@ -1,0 +1,575 @@
+WEB DEVELOPMENT BOOTCAMP
+========================
+
+TAUGHT BY
+---------
+Dr. Angela Yu
+
+COURSE LENGTH
+-------------
+12 Weeks
+
+COURSE FEE
+----------
+$18,000
+
+
+
+WEB DEVELOPMENT FUNDAMENTALS
+============================
+
+- Understand how websites work and how HTML, CSS and
+  JavaScript contribute.
+
+- Understand how the internet works and how websites are
+  served.
+
+- Learn to use git, GitHub and version control.
+
+- Learn key troubleshooting and debugging skills to apply to
+  your projects.
+
+
+
+HTML 5
+=======
+
+- Learn the anatomy of HTML syntax to structure your
+  websites.
+
+- Understand the HTML boilerplate and HTML doctypes.
+
+- Understand indentation and nesting in HTML code.
+
+- Learn to use HTML tags to structure headings and
+  paragraphs.
+
+- Learn how to structure HTML lists to create unordered and
+  ordered lists.
+
+- Learn how to insert images using HTML.
+
+- Learn how to create hyperlinks using anchor tags.
+
+- Create multi-page websites.
+
+- Learn HTML best practices.
+
+
+
+CSS 3
+=====
+
+- Understand what cascading style sheets are and how you
+  can use them to style your website.
+
+- Learn how to use CSS selectors and properties.
+
+- Learn about inline, internal and external CSS.
+
+- Understand CSS coding best practices.
+
+- Learn about CSS specificity and inheritance.
+
+- Understand the CSS Box Model.
+
+- Learn to use developer tools to inspect and diagnose CSS.
+
+- Learn about CSS positioning and display properties.
+
+- Learn about font styling using CSS and web safe fonts.
+
+- Implement responsiveness using CSS media queries.
+
+- Learn how to use CSS float and clear properties.
+
+- Learn how to combine CSS selectors and understand
+  selector priority.
+
+
+
+FLEXBOX
+========
+
+- Learn about why flexbox was introduced to CSS.
+
+- Understand what happens when display is set as flex.
+
+- Understand flex direction and how it affects layout.
+
+- Learn to use align and justify for layout of child items.
+
+- Understand how child items are sized and distributed in a
+  flexbox and use the flex shorthand property.
+
+
+
+BOOTSTRAP
+=========
+
+- Understand the difference between native CSS tooling and
+  external frameworks.
+
+- Learn to install the Bootstrap framework into your website.
+
+- Understand the Bootstrap 12 column layout system.
+
+- Learn to use Bootstrap components such as buttons,
+  carousels, cards and navigation bars.
+
+- Access and incorporate designer icons from Bootstrap.
+
+- Find and use Bootstrap code snippets, examples and
+  pre-built templates to quickly create beautiful mobile-first
+  websites.
+
+
+
+DOCUMENT OBJECT MODEL (DOM)
+===========================
+
+- Learn the tree structure of HTML-based websites.
+
+- Traverse through the document using object notation.
+
+- Learn separation of concerns and coding best practices.
+
+- Manipulate and change HTML elements using your
+  understanding of the DOM.
+
+
+
+GRID
+====
+
+- Learn how grid is different from flexbox and their
+  strengths and weaknesses.
+
+- Understand what happens when display is set as grid.
+
+- Learn how grid sizing works and how to create and arrange
+  a grid.
+
+- Learn to position items in a grid and how placement across
+  rows and columns is done.
+
+- Learn to use grid in combination with flexbox to create
+  complex layouts using native CSS.
+
+
+
+WEB DESIGN
+==========
+
+- Learn the fundamental principles of web design, UI and UX.
+
+- Understand colour theory and how to choose and use
+  modern colour palettes to make your website look
+  professional.
+
+- Understand modern typography and choose free-for-
+  commercial-use typefaces to make your website user
+  friendly and stylish.
+
+- Learn to manage user attention using key principles of
+  User Interface (UI) design.
+
+- Learn to design user-friendly websites by understanding
+  User Experience (UX) design.
+
+
+
+JAVASCRIPT ES6
+==============
+
+- Compare programming languages like JavaScript with
+  scripting and markup/stylesheet languages.
+
+- Overview of JavaScript and its uses.
+
+- Understand how to work with a code editor and IDEs.
+
+- Basic syntax and data types in JavaScript, including:
+
+  - Variables and their scope (let, const)
+  - Data types (string, number, boolean, null, undefined,
+    symbol)
+  - Operators and expressions
+  - Arithmetic, comparison and logical operators
+
+- Control structures including:
+
+  - if/else statements
+  - for loops
+  - while loops
+  - for...of loops
+  - for...in loops
+
+- Functions and their importance in JavaScript:
+
+  - Function declaration and expression
+  - Function scope and closures
+  - Arrow functions
+
+- Higher-order functions:
+
+  - Passing functions as arguments
+  - Returning functions from functions
+  - map, filter and reduce
+
+- Arrays and methods:
+
+  - Creating and accessing arrays
+  - Adding and removing elements
+  - slice()
+  - concat()
+  - indexOf() and lastIndexOf()
+  - map(), filter(), reduce()
+  - Spread syntax ...
+
+- Object-oriented programming:
+
+  - Object literals
+  - Constructor functions
+  - Classes
+  - Properties and methods
+  - this keyword
+  - super keyword
+
+- Manipulating objects and arrays:
+
+  - Object.keys()
+  - Object.values()
+  - for...in loops
+  - Object.assign()
+
+
+
+THE UNIX COMMAND LINE
+=====================
+
+- Learn basic bash commands in a Unix/Linux terminal.
+
+- Manipulate files and folders without a graphical interface.
+
+- Download and install software using the command line.
+
+
+
+GIT, GITHUB AND VERSION CONTROL
+===============================
+
+- Using git for version control and collaboration.
+
+- Git forking, branching and cloning.
+
+- Using GitHub as a remote repository.
+
+- Checkout and rolling back changes with git.
+
+- Using git and GitHub with Xcode.
+
+
+
+REACT.JS
+========
+
+- Learn front-end development with React.
+
+- Understand when and how to use React Components.
+
+- Learn to pass Props and work with them.
+
+- Learn to write JSX and understand JSX syntax.
+
+- Learn about the React DOM.
+
+- Learn State Management in React.
+
+- Learn about React Hooks.
+
+- Learn conditional rendering in React.
+
+- Understand class vs functional components.
+
+
+
+NODE.JS
+=======
+
+- Explore the components of back-end development.
+
+- Work with an MVC framework.
+
+- Apply concepts like data types, objects, methods,
+  object-oriented programming and classes in back-end
+  development.
+
+- Server-side JavaScript.
+
+- Using Node on the command line.
+
+- NPM.
+
+- JavaScript build processes.
+
+- Event loop and emitters.
+
+- File system interaction.
+
+- Modules.
+
+- Native Node drivers.
+
+
+
+APPLICATION PROGRAM INTERFACES (APIs)
+=====================================
+
+- Understand what APIs are and how they work.
+
+- HTTP in depth.
+
+- Calling APIs.
+
+- Reading API documentation.
+
+- Basic API authentication.
+
+- Server-to-server communication.
+
+- JSON vs XML.
+
+
+
+EJS
+===
+
+- Understand what EJS does and how to use it with Node and
+  Express.
+
+- Templating with EJS.
+
+- Running code in EJS templates.
+
+- Passing data from server to template and vice versa.
+
+- Creating layouts and partials with EJS.
+
+
+
+DATABASE FUNDAMENTALS
+=====================
+
+- Data relationships.
+
+- Designing a data model.
+
+- Relational databases.
+
+- Alternative databases.
+
+- ERM and ORM concepts.
+
+
+
+EXPRESS.JS
+==========
+
+- Understand how to install and use Express in Node
+  applications.
+
+- Create Node and Express-based servers.
+
+- RESTful routing with Express.
+
+- Understand and use middleware for Node applications.
+
+
+
+SQL DATABASES
+=============
+
+- Working with database schemas.
+
+- CRUD operations.
+
+- Database joins.
+
+- Querying SQL databases.
+
+
+
+DEPLOYMENT
+==========
+
+- Understand hosting and deployment.
+
+- Host static websites with GitHub Pages.
+
+- Deploy server-based applications with Heroku.
+
+- Deploy databases with Mongo Atlas.
+
+
+
+BUILDING RESTful APIs
+=====================
+
+- Understand REST and API design principles.
+
+- Learn to work with Robo 3T.
+
+- Implement GET, POST, PUT, PATCH and DELETE.
+
+- Create a public API from scratch.
+
+- Use chained route handlers with Express.
+
+
+
+AUTHENTICATION AND SECURITY
+===========================
+
+- Understand authentication and keeping user details secure.
+
+- Learn about encryption.
+
+- Use encryption to secure databases.
+
+- Learn hashing and salting with bcrypt.
+
+- Use sessions and cookies.
+
+- Set up local authentication.
+
+- Implement Passport authentication.
+
+- Use environment variables for secret keys.
+
+- Use OAuth 2.0 with Google and Facebook login.
+
+
+
+POSTGRES DATABASES
+==================
+
+- PostgreSQL queries.
+
+- CRUD operations.
+
+- Postgres best practices.
+
+- Installing Postgres.
+
+- Relational databases.
+
+- One-to-many, one-to-one and many-to-many relationships.
+
+- Working with Postgres in Node using the pg package.
+
+
+
+WEB3 BASICS AND BLOCKCHAIN DEVELOPMENT
+======================================
+
+- Understand Web3 and blockchain development.
+
+- Understand a Canister.
+
+- Understand a Motoko actor.
+
+
+
+DEPLOY YOUR CV WEBSITE ONTO A BLOCKCHAIN
+========================================
+
+- Set up a cycles wallet.
+
+- Obtain free cycles from Dfinity.
+
+- Manage canister cycle balances.
+
+- Build and deploy a static CV website to the Internet
+  Computer.
+
+- Check cycle usage.
+
+
+
+WORK WITH A REACT FRONTEND
+AND BLOCKCHAIN BACKEND
+======================
+
+- Use a React frontend with the Internet Computer.
+
+- Allow users to create notes and persist them in a canister.
+
+- Use CRUD operations on a canister from the frontend.
+
+- Use the Candid interface to test the app.
+
+
+
+CREATE YOUR OWN CRYPTO TOKEN
+============================
+
+- Understand the role of tokens in dapps and open internet
+  services.
+
+- Create an ERC-20 style token.
+
+- Deploy the token to the Internet Computer.
+
+- Create a faucet contract.
+
+- Work with principal IDs.
+
+- Use the Plug wallet.
+
+- Transfer tokens between accounts.
+
+
+
+CREATE AN NFT AND MARKETPLACE
+=============================
+
+- Create an ERC-721 style NFT.
+
+- Deploy NFTs to the Internet Computer.
+
+- Build an NFT marketplace like OpenSea.
+
+- Transfer ownership of NFTs between accounts.
+
+
+
+FAQS
+====
+
+Q: What's the difference between your online and in-person
+   bootcamp?
+
+A: The online Udemy bootcamp has the same curriculum as
+   the in-person bootcamp. The in-person version runs once
+   per year and is wait-list based.
+
+
+
+Q: What's the difference between your online courses on
+   Udemy and appbrewery.com?
+
+A: Since 2019, most courses have moved to Udemy.
+
+
+
+Q: How long does the bootcamp take to complete?
+
+A: In-person: 12 weeks.
+   Online students may complete it in as little as 3 weeks.
+
+
+
+Q: I don't have prior experience. Can I join?
+
+A: Yes. The course is designed for all levels.
